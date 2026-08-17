@@ -28,7 +28,7 @@ I build systems that remove repetitive work: automation bots, API integrations, 
 | --- | --- | --- |
 | **ApplyFlow** | Full-stack job application tracker with authentication, user-owned PostgreSQL data, pipeline management, activity history, and CSV portability. | [Live app](https://applyflow-career-tracker.netlify.app) · [Source](https://github.com/shah-hadi/applyflow) |
 | **Shah Hadi — Automation Portfolio** | Personal site focused on automation systems, bots, API integrations, and practical software. | [Visit site](https://shahhadi.online) |
-| **Fleemail** | Lightweight temporary-inbox interface with message reading and saved inboxes. | [Live demo](https://fleemail.netlify.app) |
+| **Fleemail** | Lightweight temporary-inbox interface with message reading, live updates, safe HTML rendering, and saved inboxes. | [Live demo](https://fleemail.netlify.app) · [Source](https://github.com/shah-hadi/fleemail-web) |
 | **Rectrict** | A clean temporary-email workspace with inbox tools, QR sharing, and keyboard-focused interactions. | [Live demo](https://rectrictus.netlify.app) |
 | **Furkaan Portfolio** | Client-facing frontend portfolio featuring motion UI, design systems, and responsive presentation. | [Visit site](https://furkaan.online) |
 
