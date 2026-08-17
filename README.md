@@ -2,48 +2,114 @@
 
 # Shah Hadi
 
-### Automation developer building bots, integrations, and practical web products.
+### Automation developer · Bot engineer · Full-stack builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahhadi.online-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://shahhadi.online)
-[![GitHub](https://img.shields.io/badge/GitHub-shah--hadi-111111?style=for-the-badge&logo=github)](https://github.com/shah-hadi)
+I design software that turns repetitive work into reliable systems.
+
+[![Website](https://img.shields.io/badge/Website-shahhadi.online-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://shahhadi.online)
+[![GitHub](https://img.shields.io/badge/GitHub-@shah--hadi-181717?style=for-the-badge&logo=github)](https://github.com/shah-hadi)
 
 </div>
 
-I build systems that remove repetitive work: automation bots, API integrations, dashboards, and focused web applications. My approach is simple—understand the workflow, model it clearly, build it reliably, and make it easy to use.
+## About me
 
-## What I work with
+I build automation systems, Discord bots, API integrations, and focused web applications. I care about clear workflows, sensible permissions, dependable data, and interfaces that stay out of the user's way.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0E1E25?style=flat-square&logo=netlify&logoColor=00C7B7)
+```text
+repetitive task → clear workflow → dependable software → less manual work
+```
 
-## Selected projects
+## Engineering toolkit
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **ApplyFlow** | Full-stack job application tracker with authentication, user-owned PostgreSQL data, pipeline management, activity history, and CSV portability. | [Live app](https://applyflow-career-tracker.netlify.app) · [Source](https://github.com/shah-hadi/applyflow) |
-| **Nexus ADV Bot** | Modular Discord administration bot with moderation, voice controls, temporary roles, command permissions, interactive help, and centralized logging. | [Source](https://github.com/shah-hadi/nexus-adv-bot) |
-| **Shah Hadi — Automation Portfolio** | Personal site focused on automation systems, bots, API integrations, and practical software. | [Visit site](https://shahhadi.online) |
-| **Fleemail** | Lightweight temporary-inbox interface with message reading, live updates, safe HTML rendering, and saved inboxes. | [Live demo](https://fleemail.netlify.app) · [Source](https://github.com/shah-hadi/fleemail-web) |
-| **Rectrict** | A clean temporary-email workspace with inbox tools, QR sharing, and keyboard-focused interactions. | [Live demo](https://rectrictus.netlify.app) |
-| **Furkaan Portfolio** | Client-facing frontend portfolio featuring motion UI, design systems, and responsive presentation. | [Visit site](https://furkaan.online) |
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, HTML, CSS |
+| **Backend** | Node.js, Python, Express, discord.py, REST APIs, server-sent events |
+| **Data & auth** | PostgreSQL, Supabase Auth, row-level security |
+| **Delivery** | GitHub Actions, Netlify, Vercel, Git |
 
-## Current focus
+## Featured engineering
 
-- Building dependable automation and bot workflows
-- Designing useful products with strong authentication and data ownership
-- Improving API integrations, frontend architecture, and deployment workflows
-- Turning small operational problems into maintainable software
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ApplyFlow — Job Application Tracker
+
+A secure full-stack workspace for managing applications, follow-ups, interviews, and offers. Includes Supabase authentication, user-owned PostgreSQL data, activity history, analytics, and CSV portability.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Netlify`
+
+[Live application](https://applyflow-career-tracker.netlify.app) · [Source code](https://github.com/shah-hadi/applyflow)
+
+</td>
+<td width="50%" valign="top">
+
+### Nexus ADV — Discord Administration Bot
+
+A modular Discord operations bot covering moderation, voice management, temporary roles, command-level permissions, interactive help, and centralized audit logging.
+
+`Python` `discord.py` `Automation` `Permissions`
+
+[Source code](https://github.com/shah-hadi/nexus-adv-bot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Fleemail Web — Temporary Inbox Client
+
+A responsive disposable-inbox interface with live message updates, saved inboxes, mobile navigation, and sanitized email rendering.
+
+`JavaScript` `HTML` `CSS` `SSE` `DOMPurify`
+
+[Live application](https://fleemail.netlify.app) · [Source code](https://github.com/shah-hadi/fleemail-web)
+
+</td>
+<td width="50%" valign="top">
+
+### Rectrict — Secure Inbox Workspace
+
+A keyboard-friendly temporary-email workspace with inbox management, QR sharing, and a focused dark interface.
+
+`JavaScript` `Responsive UI` `Email tooling`
+
+[Live application](https://rectrictus.netlify.app)
+
+</td>
+</tr>
+</table>
+
+## Automation portfolio
+
+My personal site explains how I approach bots, API integrations, and operational automation—from identifying repeated work to shipping a system that can run without constant attention.
+
+[Visit shahhadi.online →](https://shahhadi.online)
+
+## How I build
+
+- Start with the real workflow and its failure cases.
+- Keep authorization and data ownership explicit.
+- Prefer small, understandable components over unnecessary complexity.
+- Treat deployment, documentation, and error handling as product features.
+- Ship something useful, then improve it with evidence.
+
+## GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shah-hadi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+<img height="165" alt="Shah Hadi's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=shah-hadi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" alt="Shah Hadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah-hadi&layout=compact&hide_border=true&theme=transparent" />
 
-**Open to collaborating on automation, bots, integrations, and useful web products.**
+</div>
+
+---
+
+<div align="center">
+
+**Interested in automation, bots, integrations, or a useful web product?**
+
+[See my work](https://shahhadi.online) · [Explore my repositories](https://github.com/shah-hadi?tab=repositories)
 
 </div>
