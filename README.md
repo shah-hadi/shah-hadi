@@ -61,7 +61,7 @@ An advanced Discord operations platform with an interactive server-configuration
 
 **Stack:** Python · discord.py · Interactive UI · Automation · RBAC
 
-[Repository](https://github.com/shah-hadi/nexus-adv-bot)
+[Repository](https://github.com/shah-hadi/kyro)
 
 </td>
 </tr>
