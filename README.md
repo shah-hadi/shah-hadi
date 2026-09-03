@@ -55,11 +55,11 @@ A secure job-application workspace for managing opportunities, follow-ups, inter
 </td>
 <td width="50%" valign="top">
 
-### Nexus ADV
+### Kyro
 
-A modular Discord operations bot for moderation, voice management, temporary roles, granular command permissions, interactive help, and centralized audit logging.
+An advanced Discord operations platform with an interactive server-configuration panel, hybrid slash and prefix commands, granular role permissions, moderation workflows, voice orchestration, temporary roles, emoji and sticker tools, and centralized audit logging.
 
-**Stack:** Python · discord.py · Automation · RBAC
+**Stack:** Python · discord.py · Interactive UI · Automation · RBAC
 
 [Repository](https://github.com/shah-hadi/nexus-adv-bot)
 
